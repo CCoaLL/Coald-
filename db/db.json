@@ -1,0 +1,24 @@
+{
+    "CCoaLL": {
+        "role": "admin",
+        "id": 0,
+        "username": "CCoaLL",
+        "pw": "admincoal",
+        "email": "coalccoall@gmail.com",
+        "discord": "CCoaLL#7517"
+    },
+    "abc": {
+        "role": "human",
+        "id": "kd6uc1h8eaohsr7fkfkc78qks0g2kyr8wk2xm2i161qcm776lej0f3r3uf3uqkhea2cxwiwk187wrtzqmy4md19gtos2dwyimvpdf0a3xlvd",
+        "username": "abc",
+        "pw": "abc",
+        "email": "abc@abc.a"
+    },
+    "hi": {
+        "role": "human",
+        "id": "p8ahorll7g488bplct8eiazazv9qou5h343qofj79twwoiezm0vwu7ygkv5sl6h8oiva7bktp0bcb6xqppk6dozr9qon7z7lantsn5emhvlc",
+        "username": "hi",
+        "pw": "hi",
+        "email": "hi@hi.hi"
+    }
+}
